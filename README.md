@@ -1,16 +1,16 @@
-# Title
+# Ruby Class Variables and Methods Conclusion
 
-## Learning Goals
+In the past module, we got to know some essential aspects of programming in
+Ruby: class variables and methods. You can do a quick check of the list of
+topics we covered:
 
--SWBAT 1
--SWBAT 2
+- How to recognize a class constant
+- How to utilize class constants
+- How to know when to use `attr_accessor`
+- How to know when to define private and protected methods
+- The difference between public, private and protected methods
+- How to use class variables to keep track of a class's data
+- The concept of remembrance in object-oriented programming
 
-## Introduction
-
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+That's a lot! But now you've seen how it all works and how you can use it to
+level up your Ruby programming.
