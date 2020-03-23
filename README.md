@@ -7,8 +7,8 @@ topics we covered:
 - How to recognize a class constant
 - How to utilize class constants
 - How to know when to use `attr_accessor`
-- How to know when to define private and protected methods
-- The difference between public, private and protected methods
+- How to know when to define private methods
+- The difference between public and private methods
 - How to use class variables to keep track of a class's data
 - The concept of remembrance in object-oriented programming
 
