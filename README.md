@@ -1,6 +1,6 @@
 # Ruby Class Variables and Methods Conclusion
 
-In the past module, we got to know some essential aspects of programming in
+In the previous lessons, we got to know some essential aspects of programming in
 Ruby: class variables and methods. You can do a quick check of the list of
 topics we covered:
 
